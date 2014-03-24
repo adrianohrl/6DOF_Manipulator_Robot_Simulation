@@ -1,0 +1,12 @@
+theta_1_min = 0;    % fixed
+theta_1_max = 360;  % fixed
+theta_2_min = -27;  % fixed
+theta_2_max = 189;  % fixed
+theta_3_min = -241; 
+theta_3_max = 82;   
+theta_4_min = 0;    % fixed
+theta_4_max = 360;  % fixed
+theta_5_min = -105;
+theta_5_max = 105;
+theta_6_min = 0;    % fixed
+theta_6_max = 360;  % fixed
